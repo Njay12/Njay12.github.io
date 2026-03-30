@@ -82,7 +82,7 @@ We propose JAEGER, a dual-level whole-body controller separating upper and lower
 
 [Design and Control of Bio-Inspired Joints for Legged Robots Driven by Shape Memory Alloy Wires](https://www.mdpi.com/2313-7673/10/6/378)
 
-**Xiaojie Niu**∗, Xiang Yao, and Erbao Dong†
+**Xiaojie Niu**, Xiang Yao, and Erbao Dong†
 
 <!-- [**[Project website]**](https://www.mdpi.com/2313-7673/10/6/378) <strong><span> -->
 [**[Paper]**](https://www.mdpi.com/2313-7673/10/6/378) <strong><span>
@@ -98,7 +98,7 @@ We propose a bio-inspired joint with antagonistic SMA actuators and differential
 
 [Design and Position Control of a Bionic Joint Actuated by Shape Memory Alloy Wires](https://www.mdpi.com/2313-7673/9/4/210#)
 
-Yida Zhu*, Zhikun Jia, **Xiaojie Niu** and Erbao Dong†
+Yida Zhu, Zhikun Jia, **Xiaojie Niu** and Erbao Dong†
 
 <!-- [**[Project website]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span> -->
 [**[Paper]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span>
