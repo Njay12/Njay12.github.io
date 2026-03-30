@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Niu Xiaojie, an algorithm engineer at Shanghai Artificial Intelligence Laboratory. I received my master's degree from the University of Science and Technology of China and my bachelor's degree from Dalian University of Technology. I previously interned at Hikvision Robotics and the Beijing Academy of Artificial Intelligence, where I spent some valuable time. Currently, I work with Jingbo Wang at Shanghai AI Lab, and I truly enjoy the time spent collaborating with everyone here.
+Hi! I'm Niu Xiaojie, an algorithm engineer at Shanghai Artificial Intelligence Laboratory. I received my master's degree from the University of Science and Technology of China and my bachelor's degree from Dalian University of Technology. I previously interned at HIKROBOT and the Beijing Academy of Artificial Intelligence, where I spent some valuable time. Currently, I work with Jingbo Wang at Shanghai AI Lab, and I truly enjoy the time spent collaborating with everyone here.
 
 My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "going anywhere, doing anything."
 
@@ -28,32 +28,124 @@ My research interests focus on whole-body control and teleoperation for humanoid
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/BFM_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Behavior Foundation Model for Humanoid Robots](https://bfm4humanoid.github.io/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Weishuai Zeng, Shunlin Lu, Kangning Yin, **Xiaojie Niu**, Minyue Dai, Jingbo Wang, Jiangmiao Pang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[Project website]**](https://bfm4humanoid.github.io/) <strong><span>
+[**[Paper]**](https://arxiv.org/pdf/2509.13780) <strong><span>
+
+We propose BFM, a generative model using masked online distillation and CVAE. Pretrained on large-scale behavioral data, it generalizes across whole-body control tasks and adapts to new behaviors without retraining.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Physhsi_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhysHSI: Towards a Real-World Generalizable and Natural  Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/)
+
+Huayi Wang∗, Wentao Zhang∗, Runyi Yu∗, Tao Huang, Junli Ren, Feiyu Jia, Zirui Wang, **Xiaojie Niu,** Xiao Chen, Jiahe Chen, Qifeng Chen†, Jingbo Wang†, Jiangmiao Pang†
+
+[**[Project]**](https://why618188.github.io/physhsi/) <strong><span>
+[**[Paper]**](https://arxiv.org/pdf/2510.11072) <strong><span>
+
+We present PhysHSI, a humanoid-scene interaction system using adversarial motion prior-based policy learning and coarse-to-fine LiDAR-camera fusion. It achieves high success rates, strong generalization, and natural motions across four tasks in simulation and real world.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Jaeger_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JAEGER Dual-Level Humanoid Whole-Body Controller](https://beingbeyond.github.io/Jaeger/)
+
+Ziluo Ding∗, Haobin Jiang∗, Yuxuan Wang∗, Zhenguo Sun, Yu Zhang, **Xiaojie Niu**,
+Ming Yang, Weishuai Zeng, Xinrun Xu, Zongqing Lu†
+
+[**[Project website]**](https://beingbeyond.github.io/Jaeger/) <strong><span>
+[**[Paper]**](https://arxiv.org/pdf/2505.06584) <strong><span>
+
+We propose JAEGER, a dual-level whole-body controller separating upper and lower bodies. Using retargeting and curriculum learning (supervised + RL), it outperforms SOTA methods on two humanoid platforms in simulation and real world.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics 2025</div><img src='images/SMA_leg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Design and Control of Bio-Inspired Joints for Legged Robots Driven by Shape Memory Alloy Wires](https://www.mdpi.com/2313-7673/10/6/378)
+
+**Xiaojie Niu**∗, Xiang Yao, and Erbao Dong†
+
+<!-- [**[Project website]**](https://www.mdpi.com/2313-7673/10/6/378) <strong><span> -->
+[**[Paper]**](https://www.mdpi.com/2313-7673/10/6/378) <strong><span>
+
+We propose a bio-inspired joint with antagonistic SMA actuators and differential dual-diameter pulleys, achieving ±60° stroke and bidirectional control. An SMA-driven leg and motion retargeting framework validate its motion performance via human gait tracking.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics 2024</div><img src='images/SMA_joint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Design and Position Control of a Bionic Joint Actuated by Shape Memory Alloy Wires](https://www.mdpi.com/2313-7673/9/4/210#)
+
+Yida Zhu*, Zhikun Jia, **Xiaojie Niu** and Erbao Dong†
+
+<!-- [**[Project website]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span> -->
+[**[Paper]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span>
+
+We propose a bionic joint using SMA wires and a differential pulley set. A PI controller achieves good position control with ±30° rotation, offering an innovative solution for enhancing SMA actuated joint range of motion.
+</div>
+</div>
 
 # 📝 Projects 
 
-<!-- # 🎖 Honors and Awards -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/video_mocap_realtime_wbc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Whole-body control system based on multi-view vision pose estimation](https://www.xiaohongshu.com/explore/68dbd9f30000000005033e8a?xsec_token=ABTX4xbg5nzWbeF03BZyqU1oCatdM1XDZvEAjmWX34o1Y=&xsec_source=pc_user)
+
+**Project Leader**
+
+[**[Project website]**](https://www.xiaohongshu.com/explore/68dbd9f30000000005033e8a?xsec_token=ABTX4xbg5nzWbeF03BZyqU1oCatdM1XDZvEAjmWX34o1Y=&xsec_source=pc_user) <strong><span>
+<!-- [**[Paper]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span> -->
+
+We propose a whole-body control system based on multi-view human pose estimation. Using multiple RGB cameras, it eliminates the inaccurate root position estimation common in traditional methods, producing coordinated and executable human motions. These motions are retargeted to the robot and combined with a downstream reinforcement learning-based motion tracking policy, achieving real-time, robust, and natural whole-body control.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/humanoid_data_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Universal Data Pipeline for Humanoid Robots
+
+**Project Leader**
+
+<!-- [**[Project website]**](https://www.xiaohongshu.com/explore/68dbd9f30000000005033e8a?xsec_token=ABTX4xbg5nzWbeF03BZyqU1oCatdM1XDZvEAjmWX34o1Y=&xsec_source=pc_user) <strong><span> -->
+<!-- [**[Paper]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span> -->
+
+We propose a whole-body control system based on multi-view human pose estimation. Using multiple RGB cameras, it eliminates the inaccurate root position estimation common in traditional methods, producing coordinated and executable human motions. These motions are retargeted to the robot and combined with a downstream reinforcement learning-based motion tracking policy, achieving real-time, robust, and natural whole-body control.
+</div>
+</div>
 
 # 📖 Educations
 - *2022.9 - 2025.6*, University of Science and Technology of China
 - *2018.9 - 2022.6*, Dalian University of Technology
 
-<!-- # 💬 Invited Talks -->
 
 # 💻 Experience
 
 - *2025.5 - (now)*, Shanghai AI Lab, Shanghai,China.
 - *2024.06 - 2024.11*, Beijing Academy of Artificial Intelligence, Beijing,China.
-- *2024.01 - 2024.04*, Hikvision Robotics, Hangzhou,China.
+- *2024.01 - 2024.04*, HIKROBOT, Hangzhou,China.
