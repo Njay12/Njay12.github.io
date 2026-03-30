@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/). <br>
+Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/). <br>
 
 I previously interned at [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)) and the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)), where I spent some valuable time. <br>
 
