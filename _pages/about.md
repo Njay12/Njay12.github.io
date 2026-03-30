@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/). <br><br>
+Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/). <br>
 
-I previously interned at [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)) and the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)), where I spent some valuable time. <br><br>
+I previously interned at [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)) and the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)), where I spent some valuable time. <br>
 
-Currently, I work in Embodied AI Center at Shanghai AI Lab advised by [Dr. Jingbo Wang](https://wangjingbo1219.github.io/). I truly enjoy the time spent collaborating with everyone here :) . <br><br> 
+Currently, I work in Embodied AI Center at Shanghai AI Lab advised by [Dr. Jingbo Wang](https://wangjingbo1219.github.io/). I truly enjoy the time spent collaborating with everyone here :) <br>
 
 My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "go anywhere, do anything."
 
