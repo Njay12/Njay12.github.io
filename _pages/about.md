@@ -132,10 +132,12 @@ Universal Data Pipeline for Humanoid Robots
 
 **Project Leader**
 
+Universal Data Pipeline for Humanoid Robots, adaptable to various types of data interfaces and hardware, enabling real-time, robust human motion capture through a processing toolkit, and supporting a wide range of humanoid robots and dexterous hands.
 <!-- [**[Project website]**](https://www.xiaohongshu.com/explore/68dbd9f30000000005033e8a?xsec_token=ABTX4xbg5nzWbeF03BZyqU1oCatdM1XDZvEAjmWX34o1Y=&xsec_source=pc_user) <strong><span> -->
 <!-- [**[Paper]**](https://www.mdpi.com/2313-7673/9/4/210#) <strong><span> -->
 
-We propose a whole-body control system based on multi-view human pose estimation. Using multiple RGB cameras, it eliminates the inaccurate root position estimation common in traditional methods, producing coordinated and executable human motions. These motions are retargeted to the robot and combined with a downstream reinforcement learning-based motion tracking policy, achieving real-time, robust, and natural whole-body control.
+
+
 </div>
 </div>
 
