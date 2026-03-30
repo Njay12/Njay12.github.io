@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Niu Xiaojie, an algorithm engineer at Shanghai Artificial Intelligence Laboratory. I received my master's degree from the University of Science and Technology of China and my bachelor's degree from Dalian University of Technology. I previously interned at HIKROBOT and the Beijing Academy of Artificial Intelligence, where I spent some valuable time. Currently, I work with Jingbo Wang at Shanghai AI Lab, and I truly enjoy the time spent collaborating with everyone here.
+Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from the [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/). <br><br>
 
-My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "going anywhere, doing anything."
+I previously interned at [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)) and the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)), where I spent some valuable time. <br><br>
+
+Currently, I work in Embodied AI Center at Shanghai AI Lab advised by [Dr. Jingbo Wang](https://wangjingbo1219.github.io/). I truly enjoy the time spent collaborating with everyone here :) . <br><br> 
+
+My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "go anywhere, do anything."
 
 # 🔥 News
 - *2026.1*: &nbsp;🎉🎉 One paper BFM is accepted by ICRA 2026!
@@ -27,6 +31,39 @@ My research interests focus on whole-body control and teleoperation for humanoid
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/GA_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GoAnywhere: Towards a Whole-Body Teleoperation System Breaking the Spatial Limitation](https://njay12.github.io/) <strong><span>
+
+**Xiaojie Niu**∗ (to be added)
+
+[**[Video]**](https://weixin.qq.com/sph/AHXbgbRZ8) <strong><span>
+[**[Project website]**](https://njay12.github.io/) <strong><span>
+[**[Paper]**](https://njay12.github.io/) <strong><span>
+
+We present GoAnywhere, a whole-body teleoperation system using an omnidirectional treadmill to break spatial limitations. Integrating motion capture, motion editing, and a trained tracking policy, it enables long-range task execution and has the potential to serve as a scalable data collection framework for humanoid autonomy.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/tag_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://trap-1.github.io/TAG.github.io/)
+
+Feiyu Jia∗, **Xiaojie Niu**∗, Sizhe Yang∗, Qingwei Ben, Tao Huang, Feng Zhao†, Jingbo Wang†, Jiangmiao Pang†
+
+[**[Project website]**](https://trap-1.github.io/TAG.github.io/) <strong><span>
+[**[Paper]**](https://trap-1.github.io/TAG.github.io/static/TAG.pdf) <strong><span>
+
+We present TAG, a low-cost glove system with magnetic 21-DoF hand tracking (<1° error) and high‑resolution tactile feedback. It enables real‑time perception of contact geometry and force, improving success rates in contact‑rich teleoperation and demonstration quality.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/BFM_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
