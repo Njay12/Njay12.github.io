@@ -26,6 +26,7 @@ Currently, I work in Embodied AI Center at Shanghai AI Lab advised by [Dr. Jingb
 My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "go anywhere, do anything."
 
 # 🔥 News
+- *2026.3*: &nbsp; One paper TAG is realeased, code is coming soon!
 - *2026.1*: &nbsp;🎉🎉 One paper BFM is accepted by ICRA 2026!
 
 
