@@ -35,13 +35,12 @@ My research interests focus on whole-body control and teleoperation for humanoid
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/GA_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GoAnywhere: Towards a Whole-Body Teleoperation System Breaking the Spatial Limitation](https://njay12.github.io/) <strong><span>
+[GoAnywhere: Towards a Whole-Body Teleoperation System Breaking the Spatial Limitation](https://weixin.qq.com/sph/AHXbgbRZ8) <strong><span>
 
 **Xiaojie Niu**∗ (to be added)
 
 [**[Video]**](https://weixin.qq.com/sph/AHXbgbRZ8) <strong><span>
-[**[Project website]**](https://njay12.github.io/) <strong><span>
-[**[Paper]**](https://njay12.github.io/) <strong><span>
+
 
 We present GoAnywhere, a whole-body teleoperation system using an omnidirectional treadmill to break spatial limitations. Integrating motion capture, motion editing, and a trained tracking policy, it enables long-range task execution and has the potential to serve as a scalable data collection framework for humanoid autonomy.
 </div>
