@@ -34,7 +34,7 @@ redirect_from:
 
 **Hi! I'm Niu Xiaojie, an algorithm engineer at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). I received my master's degree from [University of Science and Technology of China](https://www.ustc.edu.cn/) and my bachelor's degree from [Dalian University of Technology](https://www.dlut.edu.cn/).** <br>
 
-**I previously interned at [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)) and the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Dr. Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Dr. Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)), where I spent some valuable time.** <br>
+**I previously interned at [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/) (advised by [Prof. Zongqing Lu](https://z0ngqing.github.io/), [Dr. Zhenguo Sun](https://openreview.net/profile?id=~Zhenguo_Sun1) and [Dr. Ziluo Ding](https://scholar.google.com/citations?user=o0NO50kAAAAJ&hl=en)) and [HIKROBOT](https://www.hikrobotics.com/cn/) (advised by [Dr. Yinjie Lin](https://scholar.google.com/citations?user=pPbEkOEAAAAJ&hl=en)), where I spent some valuable time.** <br>
 
 **Currently, I work in Embodied AI Center at Shanghai AI Lab advised by [Dr. Jingbo Wang](https://wangjingbo1219.github.io/) and [Dr. Jiangmiao Pang](https://oceanpang.github.io/). I truly enjoy the time spent collaborating with everyone here :)** <br>
 
@@ -89,7 +89,7 @@ We present TAG, a low-cost glove system with magnetic 21-DoF hand tracking (<1°
 
 Weishuai Zeng, Shunlin Lu, Kangning Yin, **Xiaojie Niu**, Minyue Dai, Jingbo Wang, Jiangmiao Pang
 
-[**[Project website]**](https://bfm4humanoid.github.io/) <strong><span>
+[**[Project website]**](https://bfm4humanoid.github.io/) <strong><span> &nbsp;|&nbsp;
 [**[Paper]**](https://arxiv.org/pdf/2509.13780) <strong><span>
 
 We propose BFM, a generative model using masked online distillation and CVAE. Pretrained on large-scale behavioral data, it generalizes across whole-body control tasks and adapts to new behaviors without retraining.
@@ -105,7 +105,7 @@ We propose BFM, a generative model using masked online distillation and CVAE. Pr
 
 Huayi Wang∗, Wentao Zhang∗, Runyi Yu∗, Tao Huang, Junli Ren, Feiyu Jia, Zirui Wang, **Xiaojie Niu,** Xiao Chen, Jiahe Chen, Qifeng Chen†, Jingbo Wang†, Jiangmiao Pang†
 
-[**[Project]**](https://why618188.github.io/physhsi/) <strong><span>
+[**[Project]**](https://why618188.github.io/physhsi/) <strong><span> &nbsp;|&nbsp;
 [**[Paper]**](https://arxiv.org/pdf/2510.11072) <strong><span>
 
 We present PhysHSI, a humanoid-scene interaction system using adversarial motion prior-based policy learning and coarse-to-fine LiDAR-camera fusion. It achieves high success rates, strong generalization, and natural motions across four tasks in simulation and real world.
@@ -122,7 +122,7 @@ We present PhysHSI, a humanoid-scene interaction system using adversarial motion
 Ziluo Ding∗, Haobin Jiang∗, Yuxuan Wang∗, Zhenguo Sun, Yu Zhang, **Xiaojie Niu**,
 Ming Yang, Weishuai Zeng, Xinrun Xu, Zongqing Lu†
 
-[**[Project website]**](https://beingbeyond.github.io/Jaeger/) <strong><span>
+[**[Project website]**](https://beingbeyond.github.io/Jaeger/) <strong><span> &nbsp;|&nbsp;
 [**[Paper]**](https://arxiv.org/pdf/2505.06584) <strong><span>
 
 We propose JAEGER, a dual-level whole-body controller separating upper and lower bodies. Using retargeting and curriculum learning (supervised + RL), it outperforms SOTA methods on two humanoid platforms in simulation and real world.
