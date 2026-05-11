@@ -43,8 +43,8 @@ redirect_from:
 **My research interests focus on whole-body control and teleoperation for humanoid robots. I hope to build robotic systems that realize the vision of "go anywhere, do anything."**
 
 # 🔥 News
-- *2026.3*: &nbsp; One paper TAG is realeased, code is coming soon!
-- *2026.1*: &nbsp;🎉🎉 One paper BFM is accepted by ICRA 2026!
+- *2026.3*: &nbsp; One paper [TAG](https://trap-1.github.io/TAG.github.io/) is realeased.
+- *2026.1*: &nbsp;🎉🎉 One paper [BFM](https://bfm4humanoid.github.io/) is accepted by ICRA 2026!
 
 
 
@@ -55,7 +55,7 @@ redirect_from:
 
 [**GoAnywhere: Towards a Whole-Body Teleoperation System Beyond Spatial Constraints**](https://weixin.qq.com/sph/AHXbgbRZ8) <strong><span>
 
-**Xiaojie Niu**∗, Weixiang Zhong∗, Xiao Chen∗, Weishuai Zeng∗, Feiyu Jia, Kailin Li, Huayi Wang, Jingbo Wang†, Jiangmiao Pang†
+**Xiaojie Niu**∗, Weixiang Zhong∗, Xiao Chen∗, Weishuai Zeng∗, Jiahe Chen, Feiyu Jia, Huayi Wang, Kailin Li, Jingbo Wang†, Jiangmiao Pang†
 
 [**[Video]**](https://weixin.qq.com/sph/AHXbgbRZ8) <strong><span>
 
