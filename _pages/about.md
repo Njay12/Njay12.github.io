@@ -50,6 +50,49 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/ScaleBFM.jpeg
+' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Scaling Behavior Foundation Model for Humanoid Robots**](https://scalebfm.github.io/) <strong><span>
+
+Weishuai Zeng∗, Kangning Yin∗, **Xiaojie Niu**∗, Shunlin Lu, Weixiang Zhong, Jiahe Chen, Feiyu Jia, Xiao Chen, Zirui Wang, Furui Xu, Ming Zhou, Kailin Li, Weinan Zhang, He Wang, Li Yi, Dahua Lin, Jiangmiao Pang, Jingbo Wang
+
+[**[Project website]**](https://scalebfm.github.io/) <strong><span> &nbsp;|&nbsp;
+[**[Paper]**](https://arxiv.org/pdf/2607.15163) <strong><span>
+
+We revisit the scaling recipe for Behavior Foundation Models, coordinating motion tracking in the global frame, on-policy rollout with motion diversity, and a Humanoid Transformer architecture. This yields substantially better control fidelity and task generalization in simulation and real-world deployment.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/ReactiveBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ReactiveBFM: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control**](https://xiao-chen.tech/reactivebfm/) <strong><span>
+
+Xiao Chen, Weishuai Zeng∗, **Xiaojie Niu**∗, Zirui Wang∗, Jianan Li∗, Huayi Wang, Furui Xu, Jiahe Chen, Weixiang Zhong, Lihe Ding, Kailin Li, Jiangmiao Pang, Tai Wang, Tianfan Xue†, Jingbo Wang†
+
+[**[Project website]**](https://xiao-chen.tech/reactivebfm/) <strong><span> &nbsp;|&nbsp;
+[**[Paper]**](https://arxiv.org/pdf/2606.30362) <strong><span>
+
+We propose ReactiveBFM, a closed-loop planning-control framework that mitigates exposure bias via scheduled prefix sampling. With asynchronous replanning and trajectory chunking, it enables reactive, text-conditioned whole-body control and zero-shot moving target reaching.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/Imagine2real.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors**](https://arxiv.org/abs/2605.22272) <strong><span>
+
+Jiahe Chen∗, Zirui Wang∗, Feiyu Jia, Xiao Chen, **Xiaojie Niu**, Weishuai Zeng, Tianfan Xue Xiaowei Zhou, Jiangmiao Pang†, Jingbo Wang†
+
+[**[Paper]**](https://arxiv.org/pdf/2605.22272) <strong><span>
+
+We present Imagine2Real, a zero-shot humanoid-object interaction framework driven by video generative priors. By tracking sparse keypoints as 4D trajectories in a BFM latent space, it enables geometry-free interaction without CAD models or retargeting.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/GA_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
