@@ -87,6 +87,11 @@
 
 }
 
+.paper-box-text > p:first-child {
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
